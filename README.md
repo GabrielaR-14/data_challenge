@@ -9,5 +9,5 @@ Para efectos del modelo, vamos a considerar que un buen vendedor tiene:
 2. Tasa de cancelaciones y reclamaciones baja
 3. Un buen Net Promoter Score (NPS) [Rating positivo - Rating Negativo]
 4. Un buen potencial definido por: Una alta rotación de inventario y ventas esperadas futuras.
-5. 
+
 Cabe destacar que las variables que se van a incluir dentro del modelo, dependerán del análisis de los datos en las diferentes de la exploración.
