@@ -2,6 +2,7 @@
 #### Objetivo:
 Identificar a los mejores vendedores de Mercado Libre (Argentina) para generar estrategias focalizadas que permitan incrementar la rentabilidad del negocio.
 Para poder abordar el problema de manera correcta, es necesario preguntarse ¿Qué características tiene un buen vendedor para el negocio?
+
 Inicialmente, la rentabilidad que le deja, la cual está relacionada con el monto facturado, el cual depende del precio y la cantidad de los productos.
 
 Para efectos del modelo, vamos a considerar que un buen vendedor tiene:
